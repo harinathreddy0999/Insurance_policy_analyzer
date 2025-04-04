@@ -1,0 +1,8 @@
+Flask
+Pillow
+PyPDF2
+python-dotenv
+pytesseract
+spacy
+flask_cors
+streamlit
